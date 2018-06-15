@@ -16,7 +16,7 @@ Code Signing Error: xxx has conflicting provisioning settings
 com.obizsoft.*
 ```
 
-### 有多次fix配置文件(饱和多个xcodeproj),如图
+### 有多次fix配置文件(包含多个xcodeproj),如图
 ![](http://p2bzzkn05.bkt.clouddn.com/18-6-15/32523638.jpg)
 
 ### 我自己电脑上是运行成功的。如果还是不能解决。联系微信ID或者提issue：1396539283。乐意帮忙查看解决~~~~
