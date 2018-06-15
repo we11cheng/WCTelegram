@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.CY-5FE03176-0C9F-11E8-8B16-60F81DAFCE8A.com.laiwang.DingTalk</string>
+		<string>group.CY-7FC36EF6-0C9D-11E8-B58C-60F81DAFCE8A.com.cydia.Extender</string>
+		<string>group.obizsoft</string>
+		<string>group.CY-91CE34FE-1DD8-11E8-912C-60F81DAFCE8A.dianbao.com.telegraph</string>
+		<string>group.CY-9ABA8C94-2692-11E8-B182-2E51010026C5.com.nssurge.surge-ios</string>
+	</array>
+</dict>
+</plist>
