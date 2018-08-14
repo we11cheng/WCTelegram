@@ -20,3 +20,4 @@ com.obizsoft.*
 ![](http://p2bzzkn05.bkt.clouddn.com/18-6-15/32523638.jpg)
 
 ### 我自己电脑上是运行成功的。如果还是不能解决。联系微信ID或者提issue：1396539283。乐意帮忙查看解决~~~~
+### 参考链接<https://github.com/peter-iakovlev/Telegram>
